@@ -2,7 +2,7 @@
 
 ## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
 
-This is, Sakib Takukqder. a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+#### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science in MoulviBazar Polytechnic Institute.
 
 # Connect with me!
 
@@ -49,16 +49,23 @@ This is, Sakib Takukqder. a CSTean form <img src="assets/bangladesh.png" width="
 <br />
 
 ## Github Stats
-  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
-<img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> 
+
+<div>
+<img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> 
+</div>
+
+
+<img align="center" width="40%" src="https://sakibtalukqder.github.io/img/banner-image.png" alt="   ">
+
 
 ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+  
 <br />
-
-
+<br />
+  
 ## About Me
 
 I love lerning and sharing knowledge, About Programing and Computer Science.
