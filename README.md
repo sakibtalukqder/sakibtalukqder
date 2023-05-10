@@ -46,7 +46,9 @@ This is, Sakib Takukqder. a CSTean form <img src="assets/bangladesh.png" width="
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-#### Github Stats
+<br />
+
+## Github Stats
   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
 <img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> 
@@ -54,7 +56,7 @@ This is, Sakib Takukqder. a CSTean form <img src="assets/bangladesh.png" width="
 ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br /> <br />
+<br />
 
 
 ## About Me
