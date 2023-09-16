@@ -21,7 +21,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <div align="center" >
 <table border="0">
  <tr>
-    <td><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" /></td>
+    <td><img align="" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" /></td>
     <td><b><img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  </b></td>
  </tr>
  <tr>
