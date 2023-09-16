@@ -25,8 +25,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 
 <div>
-![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
+
+  ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
   <div>
 <img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
 
