@@ -24,7 +24,8 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 </div>
 
 
-<img align="center" width="40%" src="https://sakibtalukqder.github.io/img/banner-image.png" alt="   ">
+![Github Banner](assets/Profile-Live.gif)
+<img align="center" width="40%" src="" alt="   ">
 
 
 ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
@@ -34,7 +35,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <br />
 <br/>
 
-![Github Banner](assets/Profile-Live.gif)
+![Github Banner](assets/banner.gif)
 
 <br/>
 
