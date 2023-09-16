@@ -34,7 +34,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <br />
 <br/>
 
-![Github Banner](assets/github-banner.gif)
+![Github Banner](assets/Profile-Live.gif)
 
 <br/>
 
