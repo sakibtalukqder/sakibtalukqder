@@ -1,3 +1,17 @@
+
+## About Me
+
+I love lerning and sharing knowledge, About Programing and Computer Science.
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `print("hello world")` <br/>
+🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
+:e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
+
+<br />
+
+
+
 ![Github Banner](assets/github-banner.gif)
 
 ## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
@@ -94,13 +108,4 @@
   
 <br />
 <br />
-  
-## About Me
-
-I love lerning and sharing knowledge, About Programing and Computer Science.
-
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `print("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
-:e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
 
