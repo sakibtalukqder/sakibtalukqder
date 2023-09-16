@@ -8,17 +8,21 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
 :e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
 
-<br />
-
-
-
-![Github Banner](assets/github-banner.gif)
+<br/>
 
 ## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
 
 #### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science in MoulviBazar Polytechnic Institute.
 
 # Connect with me!
+
+<br/>
+<br/>
+
+![Github Banner](assets/github-banner.gif)
+
+<br/>
+<br/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibtalukqder)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakibtalukqder)
