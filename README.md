@@ -31,28 +31,13 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
      
      
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-  ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
      
    </td>
 
  </tr>
 </table>
 
-<div>
-  
-
-
-
-
-<div>
-
-
-
-  
-
-</div>
-  
-</div>
 
 
   
