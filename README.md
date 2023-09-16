@@ -1,4 +1,10 @@
 
+## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
+
+#### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science in MoulviBazar Polytechnic Institute.
+
+<br/>
+
 ## About Me
 
 I love lerning and sharing knowledge, About Programing and Computer Science.
@@ -7,13 +13,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 :computer: &emsp;Most used line of code `print("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
 :e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
-
-<br/>
-
-## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
-
-#### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science in MoulviBazar Polytechnic Institute.
-
 
 <br/>
 <br/>
