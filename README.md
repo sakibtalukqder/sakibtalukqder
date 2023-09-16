@@ -20,8 +20,8 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <div>
   
-<img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  
 <img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
+<img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  
 
 <div>
 
