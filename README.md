@@ -26,11 +26,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
  </tr>
 
  <tr>
-   <td>
-     
-   ![Github Banner](assets/github-banner.gif)
-    
-   </td>
+   <td><b><img align="center" src="assets/github-banner.gif" /> </b></td>
 
    <td><b><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> </b></td>
     
@@ -41,10 +37,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
   
 <br />
-<br/>
-
-
-
 <br/>
 
 # Connect with me!
