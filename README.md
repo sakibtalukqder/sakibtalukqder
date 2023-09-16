@@ -20,17 +20,17 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <div>
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> 
+<img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
 <img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  
 
 
 <div>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> 
   ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
   <div>
-<img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  
 
 </div>
 </div>
