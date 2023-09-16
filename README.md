@@ -21,16 +21,19 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px"><img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  </b></td>
-    <td><b style="font-size:30px"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> </b></td>
+    <td><b><img align="" width="47%" src="https://github.com/sakibtalukqder/sakibtalukqder/blob/main/assets/Profile-Live.gif?raw=true" />  </b></td>
+    <td><b><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" /> </b></td>
  </tr>
+ 
  <tr>
-    <td><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />  </td>
+    <td><img align="" width="47%" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" /></td>
     <td>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-      
-    
-    </td>
+     
+     
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+  ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
+     
+   </td>
 
  </tr>
 </table>
@@ -45,7 +48,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 
 
-  ![Profile views](https://gpvc.arturio.dev/sakibtalukqder)   
   
 
 </div>
