@@ -18,11 +18,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## Github Stats
 
+<br/>
 <div align="center" >
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />
 </div>
-  
-<br />
 <br/>
 
 ## 🛠 My Skills .......
@@ -34,6 +33,12 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+<div align="center" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
+</div>
+
 #### Frameworks & library :
 ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -42,6 +47,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 #### Tools :
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -54,12 +60,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-<br/>
-<div align="center" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
-</div>
-
 
 # Connect with me!
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibtalukqder)
