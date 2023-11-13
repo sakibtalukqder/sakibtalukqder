@@ -24,6 +24,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 </div>
 <br/>
 
+<div align="center" >
 ## 🛠 My Skills .......
 #### Language :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,7 +40,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
 </div>
 
-#### Frameworks & library :
+#### Frameworks & Library :
 ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -68,4 +69,5 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+8801799232910>)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibtalukqder07@gmail.com)
 
+</div>
 </br>
