@@ -1,5 +1,5 @@
 
-## Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
+# Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
 
 #### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science in MoulviBazar Polytechnic Institute.
 
@@ -10,7 +10,7 @@
 I love lerning and sharing knowledge, About Programing and Computer Science.
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `print("hello world")` <br/>
+:computer: &emsp;Most fevourite line of code `print("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
 :e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
 
@@ -21,22 +21,9 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <div align="center" >
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />
 </div>
-<br/><br/>
-<div align="center" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
-</div>
-
-
   
 <br />
 <br/>
-
-# Connect with me!
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibtalukqder)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakibtalukqder)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakibtalukqder)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+8801799232910>)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibtalukqder07@gmail.com)
 
 
 <h1 align="left">Languages:</h1>
@@ -47,6 +34,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<br/>
+<div align="center" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
+</div>
 
 # I Develop with.......
 
@@ -99,6 +90,13 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
+# Connect with me!
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibtalukqder)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakibtalukqder)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakibtalukqder)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+8801799232910>)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibtalukqder07@gmail.com)
 
+<br />
 <br />
 
