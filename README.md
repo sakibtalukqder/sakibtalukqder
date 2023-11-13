@@ -19,11 +19,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ## Github Stats
 
 <div align="center" >
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
- 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&show_icons=true&theme=radical" />
- 
+</div>
+<div align="center" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibtalukqder" />
 </div>
 
 
