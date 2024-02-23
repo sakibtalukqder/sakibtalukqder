@@ -59,8 +59,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
   <img width="4" /> <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="33" alt="mongodb logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
@@ -68,6 +66,8 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="33" alt="firebase logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="33" alt="nextjs logo"  />
   <img width="4" />
@@ -78,7 +78,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
   <img width="4" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="33" alt="bootstrap logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="33" alt="npm logo"  />
 </div>
+
 
 ###
 
@@ -100,7 +103,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://i.ebayimg.com/images/g/HZsAAOSwV2Vij~9N/s-l1600.jpg"  />
 </div>
 
 ###
