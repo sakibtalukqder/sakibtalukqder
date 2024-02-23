@@ -15,17 +15,18 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 :e-mail: &emsp;How to reach me: sakibtalukqder07@gmail.com <br/>
 
 <br/>
-
 <h2 align="left">Github Status</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="177" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="177" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="177" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="177" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="171" src="https://avatars.githubusercontent.com/u/126917076?v=4"  />
 
@@ -68,7 +69,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="33" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="33" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
   <img width="12" />
@@ -104,6 +105,12 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
