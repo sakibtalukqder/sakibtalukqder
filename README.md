@@ -67,9 +67,9 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="33" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="33" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="33" alt="firebase logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
   <img width="4" />
@@ -79,8 +79,9 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="4" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="33" alt="bootstrap logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="33" alt="npm logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="33" alt="nextjs logo"  />
 </div>
+
 
 
 ###
