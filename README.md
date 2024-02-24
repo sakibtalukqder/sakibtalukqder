@@ -34,28 +34,51 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <div align="left" width="50%" style="margin-right:300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" alt="c logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="33" alt="androidstudio logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="vscode logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="33" alt="canva logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=ai" height="33" alt="adobeillustrator logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="33" alt="arduino logo"  />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="33" alt="ubuntu logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  /> 
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <img width="2" /> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="33" alt="mongodb logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" alt="npm logo"  />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="33" alt="firebase logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="33" alt="bootstrap logo"  />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="33" alt="nextjs logo"  />
 </div>
 
