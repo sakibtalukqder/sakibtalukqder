@@ -28,11 +28,11 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <br clear="both">
 
-<img align="right" height="171" src="https://avatars.githubusercontent.com/u/126917076?v=4"  />
+<img align="right" width="30%" src="https://avatars.githubusercontent.com/u/126917076?v=4"  />
 
 ###
 
-<div align="left">
+<div align="left" width="50%" style="margin-right:300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
@@ -58,7 +58,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="4" /> <br/>
+  <img width="4" /> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="33" alt="mongodb logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
