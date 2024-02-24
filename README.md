@@ -104,7 +104,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 ###
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:3200/0*MPoz9YzJq7jMdbfh"  />
+  <img height="200" src="./assets/banner.png"  />
 </div>
 
 ###
