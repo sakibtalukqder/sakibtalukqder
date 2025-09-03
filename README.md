@@ -31,17 +31,43 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <div align="center">
 
-| 💻 Programming | ⚡ Frontend | 🔧 Backend & DB |
-|----------------|-------------|-----------------|
-| <img src="https://skillicons.dev/icons?i=python" height="30"/> <img src="https://skillicons.dev/icons?i=java" height="30"/> <img src="https://skillicons.dev/icons?i=js" height="30"/> <img src="https://skillicons.dev/icons?i=ts" height="30"/> <img src="https://skillicons.dev/icons?i=c" height="30"/> <img src="https://skillicons.dev/icons?i=cs" height="30"/> | <img src="https://skillicons.dev/icons?i=html" height="30"/> <img src="https://skillicons.dev/icons?i=css" height="30"/> <img src="https://skillicons.dev/icons?i=react" height="30"/> <img src="https://skillicons.dev/icons?i=nextjs" height="30"/> <img src="https://skillicons.dev/icons?i=tailwind" height="30"/> | <img src="https://skillicons.dev/icons?i=nodejs" height="30"/> <img src="https://skillicons.dev/icons?i=express" height="30"/> <img src="https://skillicons.dev/icons?i=mongodb" height="30"/> <img src="https://skillicons.dev/icons?i=mysql" height="30"/> <img src="https://skillicons.dev/icons?i=firebase" height="30"/> |
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs" height="30" />
+</p>
 
-| 🚀 DevOps & Tools | 🎨 Design | 📡 Networking & OS |
-|------------------|------------|--------------------|
-| <img src="https://skillicons.dev/icons?i=docker" height="30"/> <img src="https://skillicons.dev/icons?i=jenkins" height="30"/> <img src="https://skillicons.dev/icons?i=githubactions" height="30"/> <img src="https://skillicons.dev/icons?i=git" height="30"/> <img src="https://skillicons.dev/icons?i=github" height="30"/> <img src="https://skillicons.dev/icons?i=vscode" height="30"/> | <img src="https://skillicons.dev/icons?i=figma" height="30"/> <img src="https://skillicons.dev/icons?i=ai" height="30"/> <img src="https://skillicons.dev/icons?i=canva" height="30"/> | <img src="https://skillicons.dev/icons?i=linux" height="30"/> <img src="https://skillicons.dev/icons?i=ubuntu" height="30"/> <img src="https://cdn.simpleicons.org/mikrotik/FF6600" height="30"/> <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="30"/> <img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="30"/> |
+### ⚡ Frontend Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30" />
+</p>
 
-| 🔬 Others & Hardware |
-|----------------------|
-| <img src="https://skillicons.dev/icons?i=arduino" height="30"/> |
+### 🔧 Backend & Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="30" />
+</p>
+
+### 🚀 DevOps & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,vscode" height="30" />
+</p>
+
+### 🎨 Design & Creativity  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,canva" height="30" />
+</p>
+
+### 📡 Networking & Operating Systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" height="30" />
+  <img src="https://cdn.simpleicons.org/mikrotik/FF6600" height="30"/> 
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="30"/>  
+  <img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="30"/>
+</p>
+
+### 🔬 Others & Hardware  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" />
+</p>
 
 </div>
 
