@@ -29,7 +29,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## 🛠️ My Skills  
 
-<div align="center">
+<div align="">
 
 ### 💻 Programming Languages  
 <p align="left">
