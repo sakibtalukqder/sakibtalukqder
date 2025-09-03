@@ -13,6 +13,34 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 🤔 &emsp;I’m looking for people who can help me to lern code.<br/>
 :e-mail: &emsp;How to reach me: iamreadoy@gmail.com <br/>
 
+---
+
+## 💼 Profession & Experiences  
+
+- 👨‍💻 **Assistant Network Engineer** @ [OnnoRokom Projukti Ltd.](https://onnorokom.com)  
+  _(2023 – Present)_  
+  - Managing and configuring enterprise network infrastructure (MikroTik, Cisco, Layer 3 Switching).  
+  - Deploying and maintaining servers (Web, NAS, VoIP, Virtualization with VMware/Proxmox).  
+  - Ensuring security, monitoring, and optimization of LAN/WAN across 300+ users.  
+  - Working with **VoIP (Asterisk), Docker, Jenkins, GitHub Actions** for automation and CI/CD.  
+  - Collaborating with DevOps team for scalable deployment and cloud-native adoption.  
+
+- 🎓 **Student** – BSc in Computer Science & Engineering  
+  - **Uttara University, Bangladesh**  
+  - Learning advanced topics in Programming, Computer Networks, Cybersecurity, and DevOps.  
+
+---
+
+<h2 align="left">Github Status</h2>
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="177" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="177" alt="languages graph"  />
+</div>
+
+---
+
+<img align="right" width="30%" src="https://avatars.githubusercontent.com/u/126917076?v=4"  />
 <br/>
 <h2 align="left">Github Status</h2>
 
