@@ -1,5 +1,4 @@
-
-# Hi there, This Is Sakib Talukqder <img src="assets/hello.gif" width="28px" alt="hi">
+# Hi there, This Is Sakib Talukder <img src="assets/hello.gif" width="28px" alt="hi">
 
 ### I am a CSTean form <img src="assets/bangladesh.png" width="18"/> Bangladesh; Learning Computer Science and Engineering at Uttara University,
 
@@ -46,8 +45,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
   <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="33" alt="androidstudio logo"  />
-  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" alt="vscode logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="33" alt="canva logo"  />
@@ -74,18 +71,14 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="33" alt="firebase logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="33" alt="bootstrap logo"  />
-  <img width="2" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="33" alt="nextjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" height="33" alt="docker logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="33" alt="jenkins logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="33" alt="github actions logo" />
 </div>
-
-
 
 ###
 
@@ -98,7 +91,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 [![Telegram Badge](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](t.me/+8801799232910)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+8801799232910>)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibtalukqder07@gmail.com)
-
 
 ###
 
