@@ -33,6 +33,8 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <div align="left">
 
+  <div align="left">
+
 ## 🛠️ My Skills
 
 ### 💻 Programming Languages  
@@ -61,6 +63,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 </div>
 
+</div>
 
 ###
 
