@@ -56,6 +56,11 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="33" alt="ubuntu logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="33" alt="docker logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="33" alt="jenkins logo" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="33" alt="github actions logo" />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
   <img width="2" />
@@ -73,11 +78,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img width="2" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="33" alt="nextjs logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=docker" height="33" alt="docker logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="33" alt="jenkins logo" />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="33" alt="github actions logo" />
 </div>
 
 ###
@@ -105,6 +105,35 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
        src="https://github-readme-activity-graph.vercel.app/graph?username=sakibtalukqder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
+<div align="left">
+
+## 🛠️ My Skills
+
+### 💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs" height="40" />
+
+### ⚡ Frontend Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="40" />
+
+### 🔧 Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="40" />
+
+### 🚀 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,vscode" height="40" />
+
+### 🎨 Design & Creativity  
+<img src="https://skillicons.dev/icons?i=figma,ai,canva" height="40" />
+
+### 📡 Networking & Operating Systems  
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" height="40" />  
+<img src="https://cdn.simpleicons.org/mikrotik/FF6600" height="40" alt="mikrotik logo" /> 
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" alt="cisco logo" />  
+<img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="40" alt="gnome terminal logo" />
+
+### 🔬 Others & Hardware  
+<img src="https://skillicons.dev/icons?i=arduino" height="40" />  
+
+</div>
 
 
 ###
@@ -113,10 +142,3 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
   <img height="200" src="./assets/banner.png"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sakibtalukqder/count.svg?"  />
-</div>
-
-##
