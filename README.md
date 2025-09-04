@@ -20,18 +20,20 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
-     height="177" width="100%" 
+     width="100%" 
+     height="100%"
      style="display:block; margin:0; padding:0;" 
      alt="stats graph" />
 
 </td>
-<td width="50%">
+<td width="43%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
-     height="177" width="100%" 
+     width="100%" 
+     height="100%"
      style="display:block; margin:0; padding:0;" 
      alt="languages graph" />
 
