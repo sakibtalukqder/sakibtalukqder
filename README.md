@@ -18,17 +18,24 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ###
 
-<div align="left" style="display: flex; width: 100%; height: 200px;">
+<div style="display: flex; width: 100%; height: 177px;">
 
-  <div align="left" style="flex: 1; max-width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="100%" width="100%" alt="stats graph" />
+  <!-- Left Card: Stats -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
+         style="width: 100%; height: 100%; object-fit: cover;" 
+         alt="stats graph" />
   </div>
 
-  <div align="left" style="flex: 1; max-width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&langs_count=6&theme=react&hide_border=false" height="100%" width="100%" alt="languages graph" />
+  <!-- Right Card: Top Languages -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
+         style="width: 100%; height: 100%; object-fit: cover;" 
+         alt="languages graph" />
   </div>
 
 </div>
+
 
 
 ###
