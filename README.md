@@ -18,20 +18,16 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ###
 
-<div align="center" style="width: 100%; display: flex;">
+<div align="center">
 
-  <!-- Left Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
-       height="177" 
-       width="50%" 
-       style="display: inline-block; margin: 0; padding: 0;" 
+       height="177" width="49.9%" 
+       style="display:inline-block; margin:0; padding:0;" 
        alt="stats graph" />
 
-  <!-- Right Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
-       height="177" 
-       width="50%" 
-       style="display: inline-block; margin: 0; padding: 0;" 
+       height="177" width="49.9%" 
+       style="display:inline-block; margin:0; padding:0;" 
        alt="languages graph" />
 
 </div>
