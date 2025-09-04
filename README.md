@@ -18,28 +18,30 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ###
 
-<div align="center">
+<div align="left" style="display: flex; width: 100%; height: 200px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&card_width=50%" height="177" alt="stats graph" style="display:inline-block; margin-right:0;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=50&langs_count=6&theme=react&hide_border=false" height="177" alt="languages graph" style="display:inline-block;" />
+  <div align="left" style="flex: 1; max-width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="100%" width="100%" alt="stats graph" />
+  </div>
+
+  <div align="left" style="flex: 1; max-width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&langs_count=6&theme=react&hide_border=false" height="100%" width="100%" alt="languages graph" />
+  </div>
 
 </div>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
-
-<br>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Sakib's Activity Graph"
+  <img width="90%" alt="Sakib's Activity Graph"
        src="https://github-readme-activity-graph.vercel.app/graph?username=sakibtalukqder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
 <br clear="both">
+<img width="100%" alt="Sakib's Activity" src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
 
 
 ## 🛠️ My Skills  
