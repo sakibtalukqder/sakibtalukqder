@@ -18,14 +18,29 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="177" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="177" alt="languages graph"  />
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibtalukqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&card_width=50%" height="177" alt="stats graph" style="display:inline-block; margin-right:0;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibtalukqder&locale=en&hide_title=false&layout=compact&card_width=50&langs_count=6&theme=react&hide_border=false" height="177" alt="languages graph" style="display:inline-block;" />
+
 </div>
 
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
+
+<br>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Sakib's Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sakibtalukqder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
+<br clear="both">
+
 
 ## 🛠️ My Skills  
 
@@ -101,20 +116,6 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 [![Telegram Badge](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](t.me/+8801799232910)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+8801799232910>)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibtalukqder07@gmail.com)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sakibtalukqder/sakibtalukqder/output/snake.svg" alt="Snake animation" />
-
-<br>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Sakib's Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=sakibtalukqder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
-
 
 ###
 
