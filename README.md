@@ -29,47 +29,46 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## 🛠️ My Skills  
 
-<div align="">
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="50%">
 
 ### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs" height="30" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs" height="35" />  
 
 ### ⚡ Frontend Development  
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="35" />  
 
-### 🔧 Backend & Database  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="30" />
-</p>
-
-### 🚀 DevOps & Tools  
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,vscode" height="30" />
-</p>
+### 🔧 Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="35" />  
 
 ### 🎨 Design & Creativity  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,canva" height="30" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,ai,canva" height="35" />  
 
-### 📡 Networking & Operating Systems  
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" height="30" />
-  <img src="https://cdn.simpleicons.org/mikrotik/FF6600" height="30"/> 
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="30"/>  
-  <img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="30"/>
-</p>
+</td>
 
-### 🔬 Others & Hardware  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" />
-</p>
+<td align="right" width="50%">
+
+### 🚀 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,vscode" height="35" />  
+
+### 📡 Networking & OS  
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" height="35" />  
+<img src="https://cdn.simpleicons.org/mikrotik/FF6600" height="35"/> 
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="35"/>  
+<img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="35"/>  
+
+### 🔬 Hardware & IoT  
+<img src="https://skillicons.dev/icons?i=arduino" height="35" />  
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ###
 
